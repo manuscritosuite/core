@@ -1,0 +1,2 @@
+# core
+Site do Manuscrito
